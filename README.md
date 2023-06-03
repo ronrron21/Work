@@ -1,1 +1,1 @@
-# Work
+Este proyecto es una preueba de como crear un repositorio y como traspolarlo a mi directorio local
